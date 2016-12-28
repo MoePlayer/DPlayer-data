@@ -7148,3 +7148,8 @@
 {"_id":{"$oid":"58622b4a8c1a8d29d0450244"},"author":"DIYgod","time":0,"text":"000","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
 {"_id":{"$oid":"586231bf8c1a8d29d0450245"},"author":"DIYgod","time":0,"text":"222","color":"#fff","type":"right","player":["5rGf5Y2X55qu6Z2p"],"__v":0}
 {"_id":{"$oid":"58625d228c1a8d29d0450246"},"author":"DIYgod","time":8.559304,"text":"11111111111","color":"#fff","type":"right","player":["18EE8C0B4653D5F4"],"__v":0}
+{"_id":{"$oid":"586322088c1a8d29d0450247"},"author":"DIYgod","time":4.802063,"text":"?","color":"#fff","type":"right","player":["AA6061E1FBE38E61"],"__v":0}
+{"_id":{"$oid":"5863428f8c1a8d29d0450248"},"author":"DIYgod","time":42.497521,"text":"阿大使的","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586342e78c1a8d29d0450249"},"author":"DIYgod","time":0,"text":"阿斯达斯的","color":"#39ccff","type":"right","player":["5rGf5Y2X55qu6Z2p"],"__v":0}
+{"_id":{"$oid":"5863b85d8c1a8d29d045024a"},"author":"DIYgod","time":48.871373,"text":".","color":"#fff","type":"right","player":["8810755617f77d00"],"__v":0}
+{"_id":{"$oid":"5863daaf8c1a8d29d045024b"},"author":"DIYgod","time":41.489171683,"text":"，11","color":"#fff","type":"right","player":["f171a0b104c1fd55"],"__v":0}
