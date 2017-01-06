@@ -7219,3 +7219,8 @@
 {"_id":{"$oid":"586e546d8c1a8d29d045028b"},"author":"DIYgod","time":41.324671,"text":"2333333","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
 {"_id":{"$oid":"586e55b88c1a8d29d045028c"},"author":"DIYgod","time":26.373742,"text":"123123","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
 {"_id":{"$oid":"586e564b8c1a8d29d045028d"},"author":"DIYgod","time":169.972632,"text":"666666666","color":"#39ccff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586eedf18c1a8d29d045028e"},"author":"DIYgod","time":21.256271,"text":"大家好","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586ef1bf8c1a8d29d045028f"},"author":"DIYgod","time":0,"text":"在一起的时候我","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586ef2558c1a8d29d0450290"},"author":"DIYgod","time":0,"text":"大家好哦","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586ef2698c1a8d29d0450291"},"author":"DIYgod","time":0,"text":"哈哈","color":"#fff","type":"bottom","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"586f49ba8c1a8d29d0450292"},"author":"DIYgod","time":15.135438,"text":"6666","color":"#fff","type":"right","player":["9E2E3368B56CDBB43"],"__v":0}
