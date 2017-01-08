@@ -7233,3 +7233,6 @@
 {"_id":{"$oid":"58708b598c1a8d29d0450299"},"author":"DIYgod","time":28.959412642,"text":"哈哈哈","color":"#64DD17","type":"right","player":["9E2E3368B56CDBB43"],"__v":0}
 {"_id":{"$oid":"5870e87f8c1a8d29d045029a"},"author":"DIYgod","time":25.998917,"text":"123","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
 {"_id":{"$oid":"587107e68c1a8d29d045029b"},"author":"DIYgod","time":0,"text":"hi","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"5871d1458c1a8d29d045029c"},"author":"DIYgod","time":14.338787,"text":"sddg","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"5871e6cc8c1a8d29d045029d"},"author":"DIYgod","time":5.028042,"text":"啊啊啊","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
+{"_id":{"$oid":"5871ee938c1a8d29d045029e"},"author":"DIYgod","time":28.016472,"text":"4343434","color":"#fff","type":"right","player":["9E2E3368B56CDBB4"],"__v":0}
