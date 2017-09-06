@@ -8,5 +8,5 @@ git diff --stat dans.json >> README.md
 echo '```' >> README.md
 echo '' >> README.md
 git add .
-git commit -m 'from qcloud'
+git commit -m "Sync on `date`"
 git push origin master
