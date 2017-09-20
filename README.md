@@ -35,3 +35,14 @@ Wed Sep 20 19:09:00 CST 2017
  1 file changed, 2253 insertions(+), 2179 deletions(-)
 ```
 
+Thu Sep 21 04:00:01 CST 2017
+
+```
+2017-09-20T20:00:04.549+0000	connected to: localhost
+2017-09-20T20:00:05.552+0000	[#####################...]  danmaku.dans  16000/17533  (91.3%)
+2017-09-20T20:00:05.581+0000	[########################]  danmaku.dans  17533/17533  (100.0%)
+2017-09-20T20:00:05.581+0000	exported 17533 records
+ dans.json | 14 ++++++++++++++
+ 1 file changed, 14 insertions(+)
+```
+
