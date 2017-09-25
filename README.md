@@ -84,3 +84,12 @@ Mon Sep 25 04:00:01 CST 2017
  1 file changed, 42 insertions(+)
 ```
 
+Tue Sep 26 04:00:02 CST 2017
+
+```
+2017-09-25T20:00:12.450+0000	connected to: localhost
+2017-09-25T20:00:13.060+0000	exported 17773 records
+ dans.json | 47 +++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 47 insertions(+)
+```
+
