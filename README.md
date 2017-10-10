@@ -223,3 +223,12 @@ Tue Oct 10 04:00:01 CST 2017
  1 file changed, 35 insertions(+)
 ```
 
+Wed Oct 11 04:00:02 CST 2017
+
+```
+2017-10-10T20:00:12.421+0000	connected to: localhost
+2017-10-10T20:00:13.181+0000	exported 20000 records
+ dans.json | 32 ++++++++++++++++++++++++++++++++
+ 1 file changed, 32 insertions(+)
+```
+
