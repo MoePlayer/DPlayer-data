@@ -258,3 +258,12 @@ Sat Oct 14 04:00:01 CST 2017
 Error response from daemon: Container 2623642fd5a785a6bfb7624648bdb97865cce1bbee8861cb07adeb0b652871d9 is not running
 ```
 
+Sun Oct 15 04:00:01 CST 2017
+
+```
+2017-10-14T20:00:11.615+0000	connected to: localhost
+2017-10-14T20:00:12.372+0000	exported 20135 records
+ dans.json | 26 ++++++++++++++++++++++++++
+ 1 file changed, 26 insertions(+)
+```
+
