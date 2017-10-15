@@ -267,3 +267,10 @@ Sun Oct 15 04:00:01 CST 2017
  1 file changed, 26 insertions(+)
 ```
 
+Mon Oct 16 04:00:01 CST 2017
+
+```
+2017-10-15T20:00:06.864+0000	connected to: localhost
+2017-10-15T20:00:07.529+0000	exported 20135 records
+```
+
