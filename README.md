@@ -295,3 +295,12 @@ Thu Oct 19 04:00:01 CST 2017
 2017-10-18T20:00:04.270+0000	exported 20135 records
 ```
 
+Fri Oct 20 04:00:01 CST 2017
+
+```
+2017-10-19T20:00:02.032+0000	connected to: localhost
+2017-10-19T20:00:03.005+0000	exported 19184 records
+ dans.json | 977 +-------------------------------------------------------------
+ 1 file changed, 13 insertions(+), 964 deletions(-)
+```
+
