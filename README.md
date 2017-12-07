@@ -754,3 +754,14 @@ Thu Dec  7 04:00:01 CST 2017
 Error response from daemon: Container 2623642fd5a785a6bfb7624648bdb97865cce1bbee8861cb07adeb0b652871d9 is not running
 ```
 
+Fri Dec  8 04:00:01 CST 2017
+
+```
+2017-12-07T20:00:16.344+0000	connected to: localhost
+2017-12-07T20:00:17.234+0000	[##################......]  danmaku.dans  16000/21263  (75.2%)
+2017-12-07T20:00:17.331+0000	[########################]  danmaku.dans  21263/21263  (100.0%)
+2017-12-07T20:00:17.331+0000	exported 21263 records
+ dans.json | 76 +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 76 insertions(+)
+```
+
