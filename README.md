@@ -1890,3 +1890,12 @@ Sat Mar 31 04:00:01 CST 2018
  1 file changed, 98 insertions(+)
 ```
 
+Sun Apr  1 04:00:01 CST 2018
+
+```
+2018-03-31T20:00:07.694+0000	connected to: localhost
+2018-03-31T20:00:08.664+0000	exported 32503 records
+ dans.json | 174 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+ 1 file changed, 174 insertions(+)
+```
+
