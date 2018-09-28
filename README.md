@@ -3864,3 +3864,15 @@ Fri Sep 28 04:00:01 CST 2018
 Error response from daemon: Container 2623642fd5a785a6bfb7624648bdb97865cce1bbee8861cb07adeb0b652871d9 is not running
 ```
 
+Sat Sep 29 02:22:39 CST 2018
+
+```
+./backup.sh: line 5: docker: command not found
+```
+
+Sat Sep 29 02:23:26 CST 2018
+
+```
+./backup.sh: line 5: docker: command not found
+```
+
