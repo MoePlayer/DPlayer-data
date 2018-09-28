@@ -2,8 +2,8 @@
 date >> README.md
 echo '' >> README.md
 echo '```' >> README.md
-docker exec dplayernode_mongo_1 mongoexport -d danmaku -c dans -o /data/db/backup/dans.json >> README.md 2>&1
-cp ~/dplayer/db/backup/dans.json .
+mongoexport -d danmaku -c dans -o /data/wwwroot/api.prprpr.me/data/dans.json >> README.md 2>&1
+cd /data/wwwroot/api.prprpr.me/data/
 git diff --stat dans.json >> README.md
 echo '```' >> README.md
 echo '' >> README.md
